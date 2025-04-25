@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programming since 2007.<br>📚 I'm currently learning Lua🌙 using Defold.<br>🎯 Disrupt the game industry with a more simple and lightweight approach on game development, funding and distribution.<br>🎲 A fun fact: besides liking retro-gaming and pixel art, I'm a cheese lover to the bone.</p>
+<p align="left">✨ Programming since 2017.<br>📚 I'm currently learning Lua🌙 using Defold.<br>🎯 Disrupt the game industry with a more simple and lightweight approach on game development, funding and distribution.<br>🎲 A fun fact: besides liking retro-gaming and pixel art, I'm a cheese lover to the bone.</p>
 
 ###
 
